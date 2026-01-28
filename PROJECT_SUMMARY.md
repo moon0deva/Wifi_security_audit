@@ -121,5 +121,3 @@ The tool includes multiple safeguards:
 - Validated output formats
 - Confirmed compliance with aircrack-ng suite
 
-
-*All files are in `/mnt/user-data/outputs/` ready for download and publication.*
